@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Running the Docker Image
+
+```bash
+docker run -p 3000:3000 next-app
+```
+
+Run this command to start the server on a container
+
 ## Getting Started
 
 First, run the development server:
